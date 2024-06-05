@@ -1,5 +1,5 @@
 === ACF Prevent Timeouts ===
-Contributors: Hube2
+Contributors: Hube2, Asha23
 Tags: advanced custom fields, acf, add on, timeout, prevent
 Requires at least: 4.0.0
 Tested up to: 5.7 

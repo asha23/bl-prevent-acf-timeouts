@@ -4,7 +4,7 @@
 	* Plugin Name: BrightLocal - Prevent ACF Timeouts
 	* Plugin URI: https://brightlocal.com
 	* Description: Prevents timeouts when the page is saving many custom fields.
-	* Version: 1.0.4
+	* Version: 1.0.5
 	* Author: Ash Whiting for BrightLocal - Based on an idea by John Hubner
 	* Author URI: https://brightlocal.com
 	* Text Domain: bl-acf-prevent-timeouts
